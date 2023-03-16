@@ -20,3 +20,12 @@ this project consists of 3 deliveries with different problems to be solved:
 
 
 the whole project was executed and compiled using Git commands via the windows powershell system console
+
+this project was developed by:
+
+- Juan Sebastian Pardo Lopez
+- Yeraldy Tatiana Villamizar Basto
+- Juan Manuel Soto Morales
+
+completed on :
+3/06/2022
